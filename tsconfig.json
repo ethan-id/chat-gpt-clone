@@ -30,5 +30,5 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ]
+, "src/utils/useMessages.js", "src/utils/sendMessage.js"  ]
 }
